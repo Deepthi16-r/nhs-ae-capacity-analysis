@@ -61,4 +61,4 @@ See [`queries.sql`](queries.sql) for the full SQL used.
 
 ---
 
-**Connect:** [LinkedIn]((https://www.linkedin.com/in/deepthisinghrathod/)) | Related project: [IT Staffing Resource Deployment Analytics ((https://github.com/Deepthi16-r/staffing-analytics-case-study))
+**Connect:** [LinkedIn](https://www.linkedin.com/in/deepthisinghrathod/) | Related project: [IT Staffing Resource Deployment Analytics ((https://github.com/Deepthi16-r/staffing-analytics-case-study)
